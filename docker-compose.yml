@@ -1,7 +1,7 @@
 version : "3.3"
 services :
   web :
-     image : "shubhamdocker01/todo-app-nee:latest"
+     image : "shubhamdocker01/todo-app-new:latest"
      ports :
          - "8000:8000"
 
